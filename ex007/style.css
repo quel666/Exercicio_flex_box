@@ -1,0 +1,10 @@
+.produtos {
+    display: flex;
+    gap: 20px;
+}
+
+.produtos .card-produto {
+    width: 300px;
+    background: rgba(192, 71, 192, 0.377); 
+    color: #fff;
+}

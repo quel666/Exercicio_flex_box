@@ -1,0 +1,15 @@
+.equipe {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.equipe .colaborador {
+    width: 300px;
+    background: #222;
+    color: #fff;
+    padding: 20px;
+} 
+
+.equipe .colaborador img {
+    width: 100%;
+}

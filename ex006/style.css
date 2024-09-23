@@ -1,0 +1,9 @@
+.planos {
+    display: flex;
+    gap: 20px;
+}
+
+.planos .card-plano {
+    width: 250px;
+    background: gray;  
+}
